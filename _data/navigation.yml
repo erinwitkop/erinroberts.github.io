@@ -1,6 +1,13 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Projects
+  url: /projects/
+  excerpt: "Research Projects I'm pursuing or have completed"
+  image: 
+
+- title: Publications
+  url: /publications/
+  excerpt: "Publications I've authored"
   image:
+
+
