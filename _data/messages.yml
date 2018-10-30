@@ -5,7 +5,7 @@ locales:
   # English translation
   # -------------------
   en: &DEFAULT_EN
-    overview: "Overview"
+    overview: "About"
     toc: "Table of Contents"
     written_by: "Written by"
     updated: "Updated"
