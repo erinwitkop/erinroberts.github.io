@@ -1,13 +1,21 @@
 # Site navigation links
 
-- title: Projects
+- title: Research Interests
   url: /projects/
-  excerpt: "Research Projects I'm pursuing or have completed"
+  excerpt: "Driving questions and how I investigate them"
   image: 
 
 - title: Publications
   url: /publications/
-  excerpt: "Publications I've authored"
+  excerpt: "Authored or co-authored scholarly works"
   image:
 
+- title: Outreach
+  url: /outreach/
+  excerpt: "How I contribute to my local, national, and global community"
+  image:
 
+- title: Blog Posts
+  url: /blog_post/
+  excerpt: "A collection of questions, thoughts, and ideas"
+  image: 
