@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Investigating Innate Immunity in the Easter Oyster"
 ---
 
 <div class="tiles">
