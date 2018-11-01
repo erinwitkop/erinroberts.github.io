@@ -1,6 +1,6 @@
 ---
 
-layout: media
+layout: article
 title: Research Interests
 permalink: /ResearchInterests/
 
