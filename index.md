@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Investigating Innate Immunity in the Easter Oyster"
+title: ""
 ---
 
 <div class="tiles">
@@ -10,4 +10,7 @@ title: "Investigating Innate Immunity in the Easter Oyster"
 {% endfor %}
 </div><!-- /.tiles -->
 
+# Investigating Innate Immunity in the Easter Oyster
+
 ![header pic](images/oyster_logo.png)
+
