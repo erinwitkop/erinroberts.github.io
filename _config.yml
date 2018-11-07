@@ -2,8 +2,8 @@
 
 title: "Erin M. Roberts, Ph.D. Candidate"
 description: "Documenting my research interests, goals, and accomplishments"
-logo: images/oyster_photo.png  # 120x120 px default image used for Twitter summary card
-teaser: images/oyster.png # 400x250 px default teaser image used in image archive grid
+logo: oyster_photo.png  # 120x120 px default image used for Twitter summary card
+teaser: oyster_photo.png # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:
@@ -44,7 +44,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: EMR_photo.jpeg # 160x160 px image for author byline
+  avatar: images/oyster_photo.png # 160x160 px image for author byline
   disqus-shortname:
 
 
