@@ -2,8 +2,8 @@
 
 title: "Erin M. Roberts, Ph.D. Candidate"
 description: "Documenting my research interests, goals, and accomplishments"
-logo: oyster_logo.jpeg  # 120x120 px default image used for Twitter summary card
-teaser: oyster_logo.jpeg # 400x250 px default teaser image used in image archive grid
+logo: images/oyster_photo.png  # 120x120 px default image used for Twitter summary card
+teaser: images/oyster.png # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:
